@@ -12,4 +12,9 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 ## Kortexa UI Webpage Overview:
 <p align = "center"> 
   <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-1.png">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-2.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-3.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-4.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-5.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-6.png"> 
 </p>
