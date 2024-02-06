@@ -5,7 +5,7 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 - Leveraged the latest web development technologies, including React.js and Material UI, to build robust and scalable web applications that empower businesses to thrive in the digital landscape.
 - Implemented responsive design principles and media queries to ensure optimal performance and usability across various devices, enhancing accessibility and reach.
 - Integrated RapidAPI to fetch data from unlimited sources, enabling dynamic content delivery and enhancing the versatility of the platform.
-## Copyright and Commercial Use Disclaimer
+## [Copyright and Commercial Use Disclaimer](https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/README.md#please-carefully-read-licensemd-about-the-open-source-restrictions-and-the-personal-use-policy-of-this-project-under-gpl-30-license-any-commericial-uses-on-this-project-by-those-other-than-the-owner-krystalzhang612-or-the-authorized-users-and-organizations-will-be-subjected-to-copyright-violation-with-subsequent-legal-potential-concerns)
 ⏬
 
 ### *Please carefully read [LICENSE.md]() about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](), any commericial uses on this project by those other than the owner [@KrystalZhang612]() or the authorized users and organizations will be subjected to copyright violation with subsequent legal potential concerns.*
