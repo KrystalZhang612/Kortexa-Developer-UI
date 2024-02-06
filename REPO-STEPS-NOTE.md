@@ -1,1 +1,3 @@
-
+# Complete Steps to fully push a finished project from the latest version of Vscode into a created GitHub repo:
+1. Create a new repo on github -> no README + no gitignore.
+2. In Vscode->Source Control-> delete remote -> COMMIT ETC... 
