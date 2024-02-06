@@ -8,4 +8,4 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 ## Copyright and Commercial Use Disclaimer
 ⏬
 
-*Please carefully read LICENSE.md about the Open Source restrictions and the personal use policy of this project under GPL-3.0 license, any commericial uses on this project by those other than the owner @KrystalZhang612 or the authorized users and organizations will be subjected to copyright violation with sebsequent legal potential concerns.*
+### *Please carefully read [LICENSE.md]() about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](), any commericial uses on this project by those other than the owner [@KrystalZhang612]() or the authorized users and organizations will be subjected to copyright violation with subsequent legal potential concerns.*
