@@ -18,3 +18,18 @@ By utilizing various tools and technologies, I successfully developed the Kortex
   <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-5.png">&nbsp; 
   <img src = "https://github.com/KrystalZhang612/Kortexa-Developer-UI/blob/main/testing-result-kortexa/Kortexa-overview-6.png"> 
 </p>
+# Build
+[Method to Run & Test the Project Locally]()<br/> 
+[Tags and Topics]()
+
+
+
+
+
+
+
+
+
+
+
+
