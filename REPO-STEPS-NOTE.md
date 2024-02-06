@@ -10,5 +10,16 @@
    ```bash
    git commit -m "MESSAGE"
    ```
-6. 
-   
+5. Check existing branches, make sure `main` in there:
+   ```bash
+   git branch
+   ```
+6. add remote origin to the newly created repo:
+   ```bash
+   git remote add origin https://github.com/REPO.git
+   ```
+7. The current branch main has no upstream branch, thus to push the current branch and set the remote as upstream, run:
+   ```bash
+   git push --set-upstream origin main
+   ```
+    
