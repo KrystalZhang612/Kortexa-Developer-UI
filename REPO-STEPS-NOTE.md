@@ -6,9 +6,9 @@
    ```bash
    git init 
    ```
-4.  Cmmits changes directly to the local Vscode repo:
+4. Commit changes directly to the local Vscode repo:
    ```bash
-   git commit -m "MESSAGE"  
+   git commit -m "MESSAGE"
    ```
-5. 
+6. 
    
