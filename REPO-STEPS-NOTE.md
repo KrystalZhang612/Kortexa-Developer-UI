@@ -27,4 +27,7 @@
 10. after done with README.md. Deploy on Netlify: Sites -> Browse & Upload -> Domain management -> Options -> Edit Site Name -> Sites -> Favorite the deployed sites
     If to delete site: Site Configuration -> delete site
 11. Settings-> Pull Requests -> only Allow rebase merging
-12. 
+12. Moderation options -> Interaction limits -> set 3 of them as 24 hrs.
+13. Settings -> Branches -> Settings-> Branches->
+Branch protection rules -> Name the branch protection pattern: `mainbranch`-> Add branch protection rule -> Select everything BESIDES Rules applied to
+everyone including administrators.
