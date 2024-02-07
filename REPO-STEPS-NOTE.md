@@ -10,17 +10,9 @@
    ```bash
    git commit -m "MESSAGE"
    ```
-5. Check existing branches, make sure `main` in there:
-   ```bash
-   git branch
-   ```
-   Create a new `main` branch if there's no main branch:
+5. Create a new `main` branch if there's no main branch:
    ```bash
    git branch -M main
-   ```
-   Check back if main branch is created:
-   ```bash
-   git branch
    ```
 7. add remote origin to the newly created repo:
    ```bash
