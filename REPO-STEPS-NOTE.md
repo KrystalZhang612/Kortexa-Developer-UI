@@ -26,4 +26,5 @@
 9. add Compatibility: Security -> Policy
 10. after done with README.md. Deploy on Netlify: Sites -> Browse & Upload -> Domain management -> Options -> Edit Site Name -> Sites -> Favorite the deployed sites
     If to delete site: Site Configuration -> delete site
-11. 
+11. Settings-> Pull Requests -> only Allow rebase merging
+12. 
