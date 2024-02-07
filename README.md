@@ -32,7 +32,21 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 | git 2.39.3 (Apple Git-145)          | :white_check_mark:  |
 | node v16.19.1  | ✅                  |
 | npm 8.19.3  | :white_check_mark:    |
-| yarn 1.22.19  | :white_check_mark:                        |      
+| yarn 1.22.19  | :white_check_mark:                        |    
+
+# Method to Run & Test the Project Locally
+### Download the entire project folder and open it with any IDE.
+### Start the webserver to test Kortexa Developer UI webapp by running: `npm run dev` at http://127.0.0.1:5173/
+### Terminate the server by CONTROL+C
+### Have fun browsing the stunning 3D Kortexa developer UI! 
+
+
+
+
+
+
+
+
 
 
 
