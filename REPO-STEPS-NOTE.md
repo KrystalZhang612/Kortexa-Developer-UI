@@ -23,5 +23,4 @@
    git push --set-upstream origin main
    ```
 8. add a LICENSE GPL-3.0: create new new file -> LICENSE no md -> choose template
-   
-
+9. add Compatibility: Security -> Policy
