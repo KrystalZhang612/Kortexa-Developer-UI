@@ -39,7 +39,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "Kortexa LLC",
           from_email: form.email,
-          to_email: "kristenshen@kortexallc.tech",
+          to_email: "krystalz@nvidia.com",
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -80,8 +80,8 @@ const Contact = () => {
           className='mt-12 flex flex-col gap-8'
         >
           <label className='flex flex-col'>
-            <span className='text-[#915EFF] mb-5'><b>Kristen Shen</b></span>
-            <span className='text-#ffff33 font-medium mb-5'><b><u>kristenshen@kortexallc.tech</u></b></span>
+            <span className='text-[#915EFF] mb-5'><b>Krystal Zhang</b></span>
+            <span className='text-#ffff33 font-medium mb-5'><b><u>krystalz@nvidia.com</u></b></span>
             <span className='text-white font-medium mb-5'><b>Monday - Friday: 9AM -  5PM Pacific Time </b></span>
             <span className='text-white font-medium mb-5'><b><u>© Copyright - Kortexa LLC 2023</u></b></span>
           </label>
