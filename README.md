@@ -40,6 +40,9 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 ### Terminate the server by CONTROL+C
 ### Have fun browsing the stunning 3D Kortexa developer UI! 
 # 🛠️ Developing Languages, Tools, and Techniques Needed
+[Vscode 1.85.2](https://code.visualstudio.com/updates/v1_85)<br/>
+[ReactJS](https://react.dev/)<br/>
+[]()<br/>
 
 
 
