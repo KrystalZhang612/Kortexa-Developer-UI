@@ -18,6 +18,7 @@
    ```bash
    git remote add origin https://github.com/REPO.git
    ```
+## NOTE: CHECK SOURCE CONTROL TO SEE IF ALL CHANGES ARE COMMITTED & SAVED BEFORE STEP 8. 
 8. The current branch main has no upstream branch, thus to push the current branch and set the remote as upstream, run:
    ```bash
    git push --set-upstream origin main
