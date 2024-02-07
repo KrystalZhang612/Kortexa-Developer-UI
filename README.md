@@ -48,8 +48,8 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 front-end, responsive, javascript, vscode, react-native-js, npm, npx, html5, css3, portolio, ui, ux-design
 # NOTE:
 run `npm build dev` to build & deploy the `dist`
-
-
+# Author
+Krystal Zhang https://github.com/KrystalZhang612
 
 
 
