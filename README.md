@@ -24,8 +24,9 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 # Build
 [Method to Run & Test the Project Locally]()<br/> 
 [Tags and Topics]()
-
-
+# Contribution
+[Author](https://github.com/KrystalZhang612/)
+# Comptiability 
 
 
 
