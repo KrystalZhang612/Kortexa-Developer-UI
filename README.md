@@ -44,7 +44,7 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 [ReactJS](https://react.dev/)<br/>
 [Node.JS npm/npx](https://nodejs.org/en)<br/>
 [javascript](https://www.javascript.com/)<br/>
-[]()<br/>
+# Tags and Topics
 
 
 
