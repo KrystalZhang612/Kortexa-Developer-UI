@@ -39,8 +39,7 @@ By utilizing various tools and technologies, I successfully developed the Kortex
 ### Start the webserver to test Kortexa Developer UI webapp by running: `npm run dev` at http://127.0.0.1:5173/
 ### Terminate the server by CONTROL+C
 ### Have fun browsing the stunning 3D Kortexa developer UI! 
-
-
+# 🛠️ Developing Languages, Tools, and Techniques Needed
 
 
 
