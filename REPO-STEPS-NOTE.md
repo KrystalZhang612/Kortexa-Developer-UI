@@ -14,20 +14,28 @@
    ```bash
    git branch
    ```
-6. add remote origin to the newly created repo:
+   Create a new `main` branch if there's no main branch:
+   ```bash
+   git branch -M main
+   ```
+   Check back if main branch is created:
+   ```bash
+   git branch
+   ```
+7. add remote origin to the newly created repo:
    ```bash
    git remote add origin https://github.com/REPO.git
    ```
-7. The current branch main has no upstream branch, thus to push the current branch and set the remote as upstream, run:
+8. The current branch main has no upstream branch, thus to push the current branch and set the remote as upstream, run:
    ```bash
    git push --set-upstream origin main
    ```
-8. add a LICENSE GPL-3.0: create new new file -> LICENSE no md -> choose template
-9. add Compatibility: Security -> Policy
-10. after done with README.md. Deploy on Netlify: Sites -> Browse & Upload -> Domain management -> Options -> Edit Site Name -> Sites -> Favorite the deployed sites
+9. add a LICENSE GPL-3.0: create new new file -> LICENSE no md -> choose template
+10. add Compatibility: Security -> Policy
+11. after done with README.md. Deploy on Netlify: Sites -> Browse & Upload -> Domain management -> Options -> Edit Site Name -> Sites -> Favorite the deployed sites
     If to delete site: Site Configuration -> delete site
-11. Settings-> Pull Requests -> only Allow rebase merging
-12. Moderation options -> Interaction limits -> set 3 of them as 24 hrs.
-13. Settings -> Branches -> Settings-> Branches->
+12. Settings-> Pull Requests -> only Allow rebase merging
+13. Moderation options -> Interaction limits -> set 3 of them as 24 hrs.
+14. Settings -> Branches -> Settings-> Branches->
 Branch protection rules -> Name the branch protection pattern: `mainbranch`-> Add branch protection rule -> Select everything BESIDES Rules applied to
 everyone including administrators.
