@@ -24,3 +24,5 @@
    ```
 8. add a LICENSE GPL-3.0: create new new file -> LICENSE no md -> choose template
 9. add Compatibility: Security -> Policy
+10. after done with README.md. Deploy on Netlify: Sites -> Browse & Upload -> Domain management -> Options -> Edit Site Name -> Sites -> Favorite the deployed sites
+11. 
